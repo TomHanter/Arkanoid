@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 99f80ac6e825f3943a389c7a1ba13b6d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Alumni Sans Pinstripe
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d89ac567c8a98fe46828931824c36dd6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

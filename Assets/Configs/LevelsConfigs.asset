@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 73fa6e50a1004194bc517d805e3d8c3d, type: 3}
-  m_Name: Levels Configs
+  m_Name: LevelsConfigs
   m_EditorClassIdentifier: 
   _levels:
   - SceneName: Level1
